@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fafd3bb73e1ca664c8038dc14a8bfbda, type: 3}
+  m_Name: Books 5
+  m_EditorClassIdentifier: 
+  bookName: Half All Around
+  bookPicture: {fileID: 6857917312420310995, guid: d26d3ababf1e9b349a0d99430bf571cf, type: 3}
+  borrowerName: Shuvo
+  bookPDF: {fileID: 0}
+  bookReturnTime: 6
+  bookID: 1238
+  isAvailable: 1

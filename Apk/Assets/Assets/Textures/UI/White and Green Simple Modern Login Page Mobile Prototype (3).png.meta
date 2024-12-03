@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: 42ff55454f6cf3e4287474a2f3299c14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3016333856262498867
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_0
+  - first:
+      213: -9133671835256471776
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_1
+  - first:
+      213: -1404686198845584618
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_2
+  - first:
+      213: 6384652821846609288
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_3
+  - first:
+      213: -4952697316248583532
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_4
+  - first:
+      213: -1345203146172816281
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_5
+  - first:
+      213: 1323958590122537073
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_6
+  - first:
+      213: -883176300597658444
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_7
+  - first:
+      213: 5356054544388688992
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_8
+  - first:
+      213: -1944046580696922823
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_9
+  - first:
+      213: -6908772707682886142
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_10
+  - first:
+      213: 1880499635713223667
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_11
+  - first:
+      213: -8345769871284555209
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_12
+  - first:
+      213: 5866831487099400053
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_13
+  - first:
+      213: 2024782415018184536
+    second: White and Green Simple Modern Login Page Mobile Prototype (3)_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2650
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abda390cf59eb14dac8db0275c869a3
+      internalID: -440185908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2477
+        width: 1038
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866ce36265a6b047bc7779f0bd730ff
+      internalID: 1390059034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_2
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2535
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b02155881b46a458a077725864241e
+      internalID: 912101148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_3
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2518
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4313da44f0d74cae18f2c9ce9635f
+      internalID: -102173632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2453
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756848005b55f3540b97c66fcd09e3e0
+      internalID: 2073551138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6f2e68df642f4a8256152738d9a2f
+      internalID: 618165558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_6
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8d61ff89643b45b8b91b009a98693
+      internalID: 230646543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_7
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2420
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebf0e21a4b34d40838ad5fbdc00b33
+      internalID: -1775442194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2371
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3568c2d70767ba47b55c5d6b98db083
+      internalID: -814664712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2302
+        width: 1038
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de15fc40f1b00dd41886705c0025ec30
+      internalID: -1151529709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_10
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2379
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b26a94656d1544a2a2e9b6c214280
+      internalID: 955275198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2321
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812ffe347cceb0d4a82a913e7e798c69
+      internalID: -901593662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_12
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2330
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18926b76dd8d6a54cb403d6362bc24cb
+      internalID: -2003348454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_13
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64f103491e48d41ad204856b99e41e
+      internalID: 1193397553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c7daa67b215640a971f3795061829
+      internalID: 568116792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2073
+        width: 364
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695496a2f0ec3144941c3a78e3be555
+      internalID: -994306615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2207
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b2cff50034784ca1cdd31e66d94c6
+      internalID: -969277847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_17
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2053
+        width: 262
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8209a3fbb6ffa7b4791109e16ba1db04
+      internalID: 798468454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2092
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688be25e8a5ccad44a2dea976296d0e9
+      internalID: 575828260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2084
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad4f499fdde6a45834b31b1c23a62d
+      internalID: -1016772814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_20
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2075
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543bb44f9687a204aa3548b4ad5799e8
+      internalID: 824355744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2043
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d15aeeb8344834439093de5d415b6eb
+      internalID: -1820980450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2026
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e4d6fa19a14147bc5fc345dfc5c04
+      internalID: 1388693804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_23
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2018
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bcb9655dd050e49a29ec401cb2b7c3
+      internalID: -1943576803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1835
+        width: 608
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d93e62b1b3e4842982f1fc53c303c9
+      internalID: -1445237229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1895
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197284242877974bbe1672b43bb9ace
+      internalID: -1488993817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1862
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d27b749f09a2c429339dc26785921d
+      internalID: -1251379228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1649
+        width: 720
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37025298cde4b446ac0d9ab7303e1fe
+      internalID: 1545084019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_28
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1755
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442c62bc0f91764db6a2aec6a27c01a
+      internalID: -1253144938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1682
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78e2f152c3b954faca34c680fd2bae
+      internalID: 1287107842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_30
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1616
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a101dccc33944089775556d6d1b75
+      internalID: 789467345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_31
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1624
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa21e540b3deb4aa0b42aba6561522
+      internalID: 1741660952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1417
+        width: 1039
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24411872f806c3840a77975e0ea44dc3
+      internalID: -188989859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f0645d6112fa4a8b33d475c6f2a44
+      internalID: 801897585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1329
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2336d745ed880b943a8ec45114d4cff2
+      internalID: 879311226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1181
+        width: 1038
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c8b53c9f620849b5c02f8fd21a2ee
+      internalID: -93555174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1214
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d132996d2ca406489a5806c46463592
+      internalID: 563920103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_37
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1165
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea23516af0f43540813c94bb841bc6c
+      internalID: -621033588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 898
+        width: 339
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28cee4609eb144885837c22548ddba
+      internalID: -239156481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 919
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc1367323c4a0468ee89999cd78422
+      internalID: -1263682409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_40
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 867
+        width: 351
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466af4a7083c42947823b2a382d6002d
+      internalID: -1300432753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 870
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ccd64892e42ed4b8b38e0b99f8858c
+      internalID: 1155591166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_42
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 837
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821a7f3429fbf34fb7a3bf884fb7c1d
+      internalID: -437838898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 796
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86ef35537e92246b546ab75f947a20
+      internalID: -1119564866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 804
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e658b3e83d20c469d7165674794b52
+      internalID: 2121892315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 738
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83566fd6cdd40854fa08f25ee75f4fdb
+      internalID: 701398305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 628
+        width: 815
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8a0e00fac6204ca174ac2d58de097
+      internalID: 1785461234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_47
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 615
+        width: 249
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b03bdedf17fb429df495b993cfe08
+      internalID: -1576323555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 681
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e598e74b2d923b4a9d4a6ab6a4ec475
+      internalID: -1706832184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 566
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe80103c9aa0f42a3b457f6ae05ace
+      internalID: 714144980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 483
+        width: 301
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6221f21fd659c29419433ea0f87bca0a
+      internalID: -59059791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_51
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 558
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad7e5daafc8f9a428b423246c05b045
+      internalID: -923818403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_52
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 441
+        width: 448
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54defff52b177c14aa566343dd853064
+      internalID: -1415697084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_53
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 517
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235b016e6bc804d449abbeead08865c3
+      internalID: 1741221045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 500
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d509556a1a414f9dcd54e367845cb
+      internalID: 787906248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 451
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef3c432f86adf44c87ce4875e8ffcc9
+      internalID: 294227792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 369
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea21c920743fb4b80e6a3956cf8dcf
+      internalID: -1956456630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 147
+        width: 1210
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a4f4bf59975ea48aaf8face68ddcb8
+      internalID: -1269565248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3411f710dba56994882b40e71815b781
+      internalID: 1245527763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White and Green Simple Modern Login Page Mobile Prototype (3)_59
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a28f01b6e4f1347a37e7cc6a97acc3
+      internalID: 173964005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad6b5fd5cc3c6884883beaffa476f5be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White and Green Simple Modern Login Page Mobile Prototype (3)_0: -440185908
+      White and Green Simple Modern Login Page Mobile Prototype (3)_1: 1390059034
+      White and Green Simple Modern Login Page Mobile Prototype (3)_10: 955275198
+      White and Green Simple Modern Login Page Mobile Prototype (3)_11: -901593662
+      White and Green Simple Modern Login Page Mobile Prototype (3)_12: -2003348454
+      White and Green Simple Modern Login Page Mobile Prototype (3)_13: 1193397553
+      White and Green Simple Modern Login Page Mobile Prototype (3)_14: 568116792
+      White and Green Simple Modern Login Page Mobile Prototype (3)_15: -994306615
+      White and Green Simple Modern Login Page Mobile Prototype (3)_16: -969277847
+      White and Green Simple Modern Login Page Mobile Prototype (3)_17: 798468454
+      White and Green Simple Modern Login Page Mobile Prototype (3)_18: 575828260
+      White and Green Simple Modern Login Page Mobile Prototype (3)_19: -1016772814
+      White and Green Simple Modern Login Page Mobile Prototype (3)_2: 912101148
+      White and Green Simple Modern Login Page Mobile Prototype (3)_20: 824355744
+      White and Green Simple Modern Login Page Mobile Prototype (3)_21: -1820980450
+      White and Green Simple Modern Login Page Mobile Prototype (3)_22: 1388693804
+      White and Green Simple Modern Login Page Mobile Prototype (3)_23: -1943576803
+      White and Green Simple Modern Login Page Mobile Prototype (3)_24: -1445237229
+      White and Green Simple Modern Login Page Mobile Prototype (3)_25: -1488993817
+      White and Green Simple Modern Login Page Mobile Prototype (3)_26: -1251379228
+      White and Green Simple Modern Login Page Mobile Prototype (3)_27: 1545084019
+      White and Green Simple Modern Login Page Mobile Prototype (3)_28: -1253144938
+      White and Green Simple Modern Login Page Mobile Prototype (3)_29: 1287107842
+      White and Green Simple Modern Login Page Mobile Prototype (3)_3: -102173632
+      White and Green Simple Modern Login Page Mobile Prototype (3)_30: 789467345
+      White and Green Simple Modern Login Page Mobile Prototype (3)_31: 1741660952
+      White and Green Simple Modern Login Page Mobile Prototype (3)_32: -188989859
+      White and Green Simple Modern Login Page Mobile Prototype (3)_33: 801897585
+      White and Green Simple Modern Login Page Mobile Prototype (3)_34: 879311226
+      White and Green Simple Modern Login Page Mobile Prototype (3)_35: -93555174
+      White and Green Simple Modern Login Page Mobile Prototype (3)_36: 563920103
+      White and Green Simple Modern Login Page Mobile Prototype (3)_37: -621033588
+      White and Green Simple Modern Login Page Mobile Prototype (3)_38: -239156481
+      White and Green Simple Modern Login Page Mobile Prototype (3)_39: -1263682409
+      White and Green Simple Modern Login Page Mobile Prototype (3)_4: 2073551138
+      White and Green Simple Modern Login Page Mobile Prototype (3)_40: -1300432753
+      White and Green Simple Modern Login Page Mobile Prototype (3)_41: 1155591166
+      White and Green Simple Modern Login Page Mobile Prototype (3)_42: -437838898
+      White and Green Simple Modern Login Page Mobile Prototype (3)_43: -1119564866
+      White and Green Simple Modern Login Page Mobile Prototype (3)_44: 2121892315
+      White and Green Simple Modern Login Page Mobile Prototype (3)_45: 701398305
+      White and Green Simple Modern Login Page Mobile Prototype (3)_46: 1785461234
+      White and Green Simple Modern Login Page Mobile Prototype (3)_47: -1576323555
+      White and Green Simple Modern Login Page Mobile Prototype (3)_48: -1706832184
+      White and Green Simple Modern Login Page Mobile Prototype (3)_49: 714144980
+      White and Green Simple Modern Login Page Mobile Prototype (3)_5: 618165558
+      White and Green Simple Modern Login Page Mobile Prototype (3)_50: -59059791
+      White and Green Simple Modern Login Page Mobile Prototype (3)_51: -923818403
+      White and Green Simple Modern Login Page Mobile Prototype (3)_52: -1415697084
+      White and Green Simple Modern Login Page Mobile Prototype (3)_53: 1741221045
+      White and Green Simple Modern Login Page Mobile Prototype (3)_54: 787906248
+      White and Green Simple Modern Login Page Mobile Prototype (3)_55: 294227792
+      White and Green Simple Modern Login Page Mobile Prototype (3)_56: -1956456630
+      White and Green Simple Modern Login Page Mobile Prototype (3)_57: -1269565248
+      White and Green Simple Modern Login Page Mobile Prototype (3)_58: 1245527763
+      White and Green Simple Modern Login Page Mobile Prototype (3)_59: 173964005
+      White and Green Simple Modern Login Page Mobile Prototype (3)_6: 230646543
+      White and Green Simple Modern Login Page Mobile Prototype (3)_7: -1775442194
+      White and Green Simple Modern Login Page Mobile Prototype (3)_8: -814664712
+      White and Green Simple Modern Login Page Mobile Prototype (3)_9: -1151529709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

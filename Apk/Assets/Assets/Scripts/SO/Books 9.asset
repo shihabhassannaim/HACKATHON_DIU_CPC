@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fafd3bb73e1ca664c8038dc14a8bfbda, type: 3}
+  m_Name: Books 9
+  m_EditorClassIdentifier: 
+  bookName: Aglie
+  bookPicture: {fileID: -1887070947243598713, guid: 518d27f10c10c9a429e9c7454c3b3a73, type: 3}
+  borrowerName: Rashed
+  bookPDF: {fileID: 0}
+  bookReturnTime: 12
+  bookID: 2136
+  isAvailable: 1
